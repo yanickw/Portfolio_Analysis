@@ -1,4 +1,4 @@
-# Portfolio_Analysis
+# Portfolio Analysis
 *Portfolio Analysis* is a quantitative analysis risk management processes visualized through a serie of different metrics based on performance, volatility, risk, risk-return profile for portfolio diversification. The analyser processes given dataframe of assets from a data file (.csv) comparing them to the market.
 Currently being developed as part of a UCBerkeley Bootcamp.
 
